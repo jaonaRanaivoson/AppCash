@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AppCash", "AppCash\AppCash.vbproj", "{A6922ED4-9E31-44D4-BABC-34CCC6DB019F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6922ED4-9E31-44D4-BABC-34CCC6DB019F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6922ED4-9E31-44D4-BABC-34CCC6DB019F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6922ED4-9E31-44D4-BABC-34CCC6DB019F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6922ED4-9E31-44D4-BABC-34CCC6DB019F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A40FE3FB-BAAD-4D9F-9D37-A6484F9797E3}
+	EndGlobalSection
+EndGlobal
